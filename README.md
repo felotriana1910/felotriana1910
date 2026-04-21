@@ -1,6 +1,6 @@
 # Hello there, it's Felipe.
 
-![*Bothriechis schlegelii* in Mutatá, Colombia.](images/B schlegellii.jpg){width="658"}
+![*Bothriechis schlegelii* in Mutatá, Colombia.](images/B%20schlegellii.jpg){width="658"}
 
 🐍 I'm a **biologist** interested in the ecology, behaviour, evolution and conservation of venomous and poisonous animals such as snakes, scorpions, and anurans.
 
