@@ -1,4 +1,14 @@
-## Hi there 👋
+🇨🇷🇨🇴 I was born in Costa Rica and also hold Colombian citizenship.
+
+🐍 I'm a **biologist** interested in the ecology, behaviour, evolution and conservation of venomous and poisonous animals such as snakes, scorpions, and anurans.
+
+📖 I'm currently a **PhD candidate at The University of Wollongong**, Australia. My project here is focused on the evolution of venom in snakes, where I will be specifically working in the next ideas:
+
+-   The effect of the Cane Toads (*Rhinella horribilis*) invasion on the toxin expression of Australian elapids.
+
+-   The
+
+I am a Biologist currently pursuing a MSc Degree at the University of Costa Rica, where my thesis topic will be focusing in spatial ecology patterns between resident and translocated rattlesnake populations. I collaborate in projects involving snakes, anurans and scorpions’ conservation, behavior, ecology and chemical ecology. My main interest is to expand knowledge of neotropical venomous snakes’ ecology for its effective management and conservation.
 
 <!--
 **felotriana1910/felotriana1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
