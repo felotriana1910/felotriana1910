@@ -18,4 +18,4 @@
 
 💬 If you want to collaborate or ask me about my work or codes, feel free to send my a mail to felotriana19\@gmail.com or aftr299\@uowmail.edu.au
 
-![*Bothriechis schlegelii* in Mutatá, Colombia.](images/B schlegellii.jpg)
+![*Bothriechis schlegelii* in Mutatá, Colombia.](images/B%20schlegellii.jpg)
