@@ -1,26 +1,21 @@
-🇨🇷🇨🇴 I was born in Costa Rica and also hold Colombian citizenship.
+# Hello there, it's Felipe.
+
+![*Bothriechis schlegelii* in Mutatá, Colombia.](images/B schlegellii.jpg){width="658"}
 
 🐍 I'm a **biologist** interested in the ecology, behaviour, evolution and conservation of venomous and poisonous animals such as snakes, scorpions, and anurans.
+
+⚡My main interest is to expand our understanding of the ecology, evolution, and behavior of venomous snakes in order to achieve effective management and conservation. My hope is that people will come to understand them and choose alternatives to killing them.
 
 📖 I'm currently a **PhD candidate at The University of Wollongong**, Australia. My project here is focused on the evolution of venom in snakes, where I will be specifically working in the next ideas:
 
 -   The effect of the Cane Toads (*Rhinella horribilis*) invasion on the toxin expression of Australian elapids.
 
--   The
+-   The macroevolutionary patterns of toxin expression in the venom of the Viperidae family.
 
-I am a Biologist currently pursuing a MSc Degree at the University of Costa Rica, where my thesis topic will be focusing in spatial ecology patterns between resident and translocated rattlesnake populations. I collaborate in projects involving snakes, anurans and scorpions’ conservation, behavior, ecology and chemical ecology. My main interest is to expand knowledge of neotropical venomous snakes’ ecology for its effective management and conservation.
+-   The microevolutionary patterns of toxin expression across snake taxa.
 
-<!--
-**felotriana1910/felotriana1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✅ During my master's degree in Costa Rica, I studied the spatial ecology of the Mesoamerican Rattlesnake (*Crotalus simus*).
 
-Here are some ideas to get you started:
+📃 If you want to see any of the works I have been collaboration, you can see them [here](https://www.researchgate.net/profile/Felipe-Triana-2?ev=hdr_xprf).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 If you want to collaborate or ask me about my work or codes, feel free to send my a mail to felotriana19\@gmail.com or aftr299\@uowmail.edu.au
