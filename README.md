@@ -20,4 +20,4 @@
 
 ![](images/B%20schlegellii.jpg)
 
-~*Bothriechis\ schlegelii*\ from\ Mutatá,\ Colombia.~
+*Bothriechis schlegelii* from Mutatá, Colombia.
