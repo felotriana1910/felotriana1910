@@ -1,4 +1,4 @@
-# Hello there, it's Felipe.
+# Hello there, it's Felo.
 
 🐍 I'm a **biologist** interested in the ecology, behaviour, evolution and conservation of venomous and poisonous animals such as snakes, scorpions, and anurans.
 
